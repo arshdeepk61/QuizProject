@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: AmdocsQuiz
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: kaurar
+Implementation-Vendor-Id: AmdocsQuiz
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/AmdocsQuiz
+Created-By: Maven Integration for Eclipse
+
